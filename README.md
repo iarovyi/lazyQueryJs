@@ -6,13 +6,15 @@ that allows you to write jQuery queries with lazy execution.
 
  It can be very handy:
  
- *`Resuse` queries
+ * `Resuse` queries
  * Write `less` code
  
 Sample
 -------------------------
 
 ![alt tag](https://raw.github.com/iarovyi/lazyQueryJs/master/img/lazyQuerySample.png)
+
+Everything between $.lazy() and .execute() is lazy executed.
 
 1) Create query
 
