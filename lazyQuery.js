@@ -33,7 +33,7 @@
 			var $dom = $.apply(this, this._selectors);
 				
 			$.each(this._methods, function(i, methodObj){
-				var args = methodObj.args;
+				var args = methodObj.args.splice(0);
 				$.each(args, function(i, param){
 					args[i] = param instanceof $.lazy.init ? param.execute() : param;
 				});
