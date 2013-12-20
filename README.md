@@ -1,10 +1,11 @@
 lazyQueryJs
 ===========
 
-[lazyQueryJs](https://github.com/iarovyi/lazyQueryJs/blob/master/lazyQuery.js) is extra small plugin to jQuery
+[lazyQueryJs](https://github.com/iarovyi/lazyQueryJs/blob/master/lazyQuery.js) is tiny plugin to jQuery
 that allows you to write jQuery queries with lazy execution. 
 
  It can be very handy:
+ 
  *`Resuse` queries
  * Write `less` code
  
