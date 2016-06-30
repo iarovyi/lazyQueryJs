@@ -39,3 +39,5 @@ $query.execute(4000).then(function(){
 ```
 
 ![alt tag](https://raw.github.com/iarovyi/lazyQueryJs/master/img/lazyQuerySample-wait.png)
+
+TEST !!
